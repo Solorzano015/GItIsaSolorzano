@@ -10,6 +10,8 @@ public class Death : MonoBehaviour
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
+        
 
     }
+    
 }
